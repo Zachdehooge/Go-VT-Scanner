@@ -1,4 +1,3 @@
-#!/usr/bin/env groovy
 pipeline {
     agent any
     tools { go '1.23.1' 
