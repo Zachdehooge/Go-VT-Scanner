@@ -9,8 +9,6 @@ pipeline {
         stage('Unit Tests') {
             steps {
                 script {
-                    // Setting up Go environment
-                    //def goVersion = ">=1.23.0"
                     sh "go version"
                     // Running unit tests
                     sh '''
