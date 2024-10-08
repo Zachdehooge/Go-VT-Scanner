@@ -18,7 +18,7 @@ pipeline {
                     cd Go-Security-Scanner
                     pwd
                     echo "Running unit tests..."
-                    go test main_test.go
+                    go test program_test.go
                     echo "Unit Tests Complete"
                     '''
                 }
