@@ -14,7 +14,7 @@ pipeline {
                     sh "go version"
                     // Running unit tests
                     sh '''
-                    git clone https://https://github.com/Zachdehooge/DevSecOps-Projects/
+                    git clone https://https://github.com/Zachdehooge/Go-Security-Scanner/
                     cd Go-Security-Scanner
                     pwd
                     echo "Running unit tests..."
