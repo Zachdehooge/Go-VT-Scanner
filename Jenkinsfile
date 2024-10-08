@@ -24,22 +24,6 @@ pipeline {
                 }
             }
         }
-
-        stage('Static Testing'){
-            steps{
-                script{
-
-                }
-            }
-        }
-
-        stage("Dynamic Testing"){
-            steps{
-                script{
-                    
-                }
-            }
-        }
     } 
     post {
         always {
