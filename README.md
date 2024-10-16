@@ -10,5 +10,5 @@ A GO TUI application that makes a call to the Virus Total API and pulls informat
 ![Go-VT-Scanner](Go-VT-Scanner.png)
 
 ## TODO
-- Implement Bubbletea and Lipgloss
+- Implement Lipgloss
 - Implement Testing for API
