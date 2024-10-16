@@ -1,4 +1,4 @@
-# Go Security Scanner
+# Go VT Scanner
 A GO TUI application that makes a call to the Virus Total API and pulls information regarding a specified SHA-256 hash.
 
 ## Usage
